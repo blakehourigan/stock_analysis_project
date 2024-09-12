@@ -1,1 +1,3 @@
 # stock_analysis_project
+
+Stock analysis project written in python...
